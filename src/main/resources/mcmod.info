@@ -1,0 +1,15 @@
+[
+{
+  "modid": "syphoninject",
+  "name": "SyphonInject",
+  "description": "Inject Syphon to Minecraft",
+  "version": "${version}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["rinsuki"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
